@@ -1,0 +1,28 @@
+---
+about:
+  template: jolla
+  id: about-block
+  image: "img/my_image.jpg"
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/rachanagurudu
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/rachana-gurudu/
+    - icon: envelope
+      text: Email
+      href: "mailto:rachana.gurudu@case.edu"  
+---
+
+::: {#about-block}
+:::
+
+# Welcome to my website!
+
+Hello! My name is Rachana Gurudu, and I am a combined bachelor’s/master’s student at Case Western Reserve University pursuing a B.A. in Chemical Biology, a B.A. in Healthcare Management and an M.S. in Biomedical and Health Informatics. I am passionate about interdiscplinary studies, and the intersection of medicine, equity, and technology. In the future, I aim to be a physician-researcher who develops informatics tools to solve pressing health equity issues and makes healthcare more accessible.
+
+My research interests include the evaluation of leadership development programs for women faculty at CWRU School of Medicine, automated view classification tools of cardiac MR, and general radiology topics such as claustrophobia in MRI and tumor metrics imaging core labs. Outside of research, I am passionate about disability accessibility, and serve as President and Founder of the Disability Resources Student Advisory Board, where I advocate on a ten-person board to make CWRU’s campus and courses more accessible. Outside of research and extracurriculars, I am a long-distance runner, and plan to run a marathon next spring!
+
+Please feel free to [contact me](mailto:rachana.gurudu@case.edu) if you have any questions or would like to discuss potential projects.
+
